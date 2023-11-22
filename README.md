@@ -1,6 +1,6 @@
 # Netflix Dashboard
 
-This dashboard visualise data of TV shows and movies shown on Netflix.
+This dashboard visualises data of TV shows and movies shown on Netflix.
 
 ### Steps followed 
 
